@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Stijn Michielse PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "White matter MRI, psychotic disorder, diffusion tensor imaging, Parkinson's Disease, functional MRI, Ultra-High Field Magnetic Resonance Imaging (7T and 9.4T)"
+  location         : "Maastricht, the Netherlands"
+  employer         : "Maastricht University"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=stijn+michielse"
+  googlescholar    : "https://scholar.google.nl/citations?user=kfgkPLsAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Stijn-Michielse"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "stijnimaging"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/stijn-michielse/"
+  orcid            : "https://orcid.org/0000-0003-3930-8646"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "stijnimaging"
   vine             :
   weibo            :
   xing             :
